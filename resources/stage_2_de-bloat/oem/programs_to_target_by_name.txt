@@ -53,11 +53,11 @@ set PROGRAMS_TO_TARGET_BY_NAME_SCRIPT_DATE=2017-04-25
 180 Solution%%
 24x7 Help
 3vix%%
-ASUS%%
+::ASUS%%
 AVG PC TuneUp%%
 AVG Web TuneUp
-Acer%%
-Adobe Shockwave%%
+::Acer%%
+::Adobe Shockwave%%
 Advanced Registry%%
 Advanced%%FX Engine
 Akamai%%
@@ -86,7 +86,7 @@ ConservativeTalkNow Firefox Toolbar
 CutePDF Editor Toolbar Updater
 DealPly (remove only)
 DealScout for Internet Explorer
-Dell%%
+::Dell%%
 Delta toolbar
 Discovery Tools
 Download Updater (AOL Inc.)
@@ -102,15 +102,15 @@ FromDocToPDF Internet Explorer Toolbar
 FromDocToPDF Toolbar
 GetSavin
 HD-Total-%%
-HP%%Assistant%%
-HP%%Documentation%%
-HP%%Guide%%
-HP%%Help%%
-HP%%Notifications%%
-HP%%Registration%%
-HP%%Study%%
-HP%%Support%%
-HP%%Update%%
+::HP%%Assistant%%
+::HP%%Documentation%%
+::HP%%Guide%%
+::HP%%Help%%
+::HP%%Notifications%%
+::HP%%Registration%%
+::HP%%Study%%
+::HP%%Support%%
+::HP%%Update%%
 IB Updater%%
 IObit%%
 IWon%%
@@ -124,13 +124,13 @@ Intel%%Smart%%
 Internet Explorer Toolbar%%
 InternetHelper3 Toolbar
 Launch Manager%%
-Lenovo%%
+::Lenovo%%
 LinkSwift%%
-Live Updater
+::Live Updater
 Live! Cam Avatar%%
 MPlayerplus%%
 MapsGalaxy%%
-McAfee Security Scan
+::McAfee Security Scan
 Media Buzz
 Media Gallery%%
 Media View%%
@@ -140,13 +140,13 @@ MixiDJ V30 Toolbar
 MobileWiFi%%
 Mobogenie
 Move Media%%
-My HP%%
+::My HP%%
 My Scrap Nook Internet Explorer Toolbar
 My Web Searc%%
 MyPC Backup%%
 Mysearchdial
 Nero%%
-Norton Internet%%
+::Norton Internet%%
 OMG Music Plus%%
 OOBE%%
 Optimizer Pro%%
@@ -193,7 +193,7 @@ Software Assist
 Software Updater
 Soluto
 Sonic CinePlayer%%
-Sony Music%%
+::Sony Music%%
 Spam Free Search Toolbar
 SpeedUpMyPc%%
 Speedial%%
@@ -206,11 +206,11 @@ The Gator
 TidyNetwork.com
 Toolbar%%
 TopArcadeHits
-Toshiba%%
-Uninstall Helper
+::Toshiba%%
+::Uninstall Helper
 UserGuide%%
 Utility Chest Toolbar
-VAIO%%
+::VAIO%%
 VGClient%%
 Video Converter%%
 Video Player
